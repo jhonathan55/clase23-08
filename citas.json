@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "cachipin",
+        "edad": "5",
+        "tipo": "perro",
+        "color": "gris",
+        "enfermedad": "pata mala"
+    },
+    {
+        "nombre": "cachipin",
+        "edad": "5",
+        "tipo": "perro",
+        "color": "gris",
+        "enfermedad": "pata mala"
+    },
+    {
+        "nombre": "cachipin",
+        "edad": "5",
+        "tipo": "perro",
+        "color": "gris",
+        "enfermedad": "pata mala"
+    }
+]
